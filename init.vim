@@ -26,6 +26,7 @@ Plug 'nvim-telescope/telescope.nvim'
 Plug 'gruvbox-community/gruvbox'
 Plug 'neovim/nvim-lspconfig'
 Plug 'instant-markdown/vim-instant-markdown'
+Plug 'dracula/vim'
 call plug#end()
 colorscheme gruvbox
 
